@@ -22,11 +22,34 @@ Please note, Python was only used for web scraping
 
 ## EDA
 
+Below are highlights from my EDA. Because I am trying to predict price, I mainly focused on showing the correlation between price and other variables
+
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/65564135/102079450-07b91880-3e0d-11eb-869c-2f4215ab3b33.png" width = 400/>
   <img src="https://user-images.githubusercontent.com/65564135/102079444-04be2800-3e0d-11eb-9ed3-5419372da513.png" width = 400/>
+  <img src="https://user-images.githubusercontent.com/65564135/102079450-07b91880-3e0d-11eb-869c-2f4215ab3b33.png" width = 400/>
   <img src="https://user-images.githubusercontent.com/65564135/102079446-05ef5500-3e0d-11eb-9aed-550da2827a17.png" width = 400/>
 </p>
 
+## Model Building
 
+- Dropped variables that would not be included in the model
+- Split data into train and test set with a test size od 20%
+- Centered and scaled the data
+- Transformed categorical variables into dummy variables
+
+I tried three different models and evaluated them using MAE, RMSE, RSQ.
+
+Models:
+
+- Linear Regression
+- Lasso Regression
+- XGBoost
+
+Model Performance:
+
+- Linear Regression
+- Lasso Regression
+- XGBoost: MAE = 
+
+<img src="https://user-images.githubusercontent.com/65564135/102079434-012aa100-3e0d-11eb-9b93-f6a7fe362321.png" width = 600/>
 
