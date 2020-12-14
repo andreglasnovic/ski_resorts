@@ -10,12 +10,13 @@ The goal of this project is to answer the above question based on several featur
 
 Please note, Python was only used for web scraping
 
-**Python packages:** Beautiful Soup
-
 **R packages:** tidyverse, tidymodels, ggcorrplot, ggrepel
+
+**Python packages:** Beautiful Soup
 
 ## Data Cleaning
 
+- trimed columns, inserted NAs to empty cells, replaced "None" with NA
 - parsed numeric data out of numeric variables
 - imputted missing values using knn
 - made new column elevation_length by subtracting lowest point from highest_point
