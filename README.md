@@ -21,3 +21,8 @@ Please note, Python was only used for web scraping
 - made new column elevation_length by subtracting lowest point from highest_point
 
 ## EDA
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/65564135/102079439-038cfb00-3e0d-11eb-98a5-a2093d76de23.png" width = 400/>
+  <img src="https://user-images.githubusercontent.com/65564135/102079434-012aa100-3e0d-11eb-9b93-f6a7fe362321.png" width = 400/>
+</p>
