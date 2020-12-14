@@ -23,7 +23,7 @@ Please note, Python was only used for web scraping
 
 ## EDA
 
-Below are highlights from my EDA. Because I am trying to predict price, I mainly focused on showing the correlation between price and other variables
+Below are highlights from my EDA. Since I am trying to predict price, I mainly focused on showing the correlation between price and other variables
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/65564135/102079444-04be2800-3e0d-11eb-9ed3-5419372da513.png" width = 500/>
