@@ -1,6 +1,6 @@
 # How much does skiing in Europe cost?
 
-The goal of this project is to answer the above question based on several features such as number of runs, location, height of the mountain, etc. 
+The goal of this project is to answer the above question based on several features such as number of runs, location, height of the mountain, etc. I will be predicting the cost of ski resorts to help skiers and snowboarders get the idea on what to expect from European resorts.
 
 ## Code Used
 
