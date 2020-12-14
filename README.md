@@ -25,9 +25,9 @@ Please note, Python was only used for web scraping
 Below are highlights from my EDA. Because I am trying to predict price, I mainly focused on showing the correlation between price and other variables
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/65564135/102079444-04be2800-3e0d-11eb-9ed3-5419372da513.png" width = 400/>
-  <img src="https://user-images.githubusercontent.com/65564135/102079450-07b91880-3e0d-11eb-869c-2f4215ab3b33.png" width = 400/>
-  <img src="https://user-images.githubusercontent.com/65564135/102079446-05ef5500-3e0d-11eb-9aed-550da2827a17.png" width = 400/>
+  <img src="https://user-images.githubusercontent.com/65564135/102079444-04be2800-3e0d-11eb-9ed3-5419372da513.png" width = 500/>
+  <img src="https://user-images.githubusercontent.com/65564135/102079450-07b91880-3e0d-11eb-869c-2f4215ab3b33.png" width = 500/>
+  <img src="https://user-images.githubusercontent.com/65564135/102079446-05ef5500-3e0d-11eb-9aed-550da2827a17.png" width = 500/>
 </p>
 
 ## Model Building
@@ -47,9 +47,7 @@ Models:
 
 Model Performance:
 
-- Linear Regression
-- Lasso Regression
-- XGBoost: MAE = 
+<img src="https://user-images.githubusercontent.com/65564135/102087083-51a7fb80-3e19-11eb-8923-d76935630153.jpg" width = 300/> 
 
-<img src="https://user-images.githubusercontent.com/65564135/102079434-012aa100-3e0d-11eb-9b93-f6a7fe362321.png" width = 600/>
+<img src="https://user-images.githubusercontent.com/65564135/102079434-012aa100-3e0d-11eb-9b93-f6a7fe362321.png" width = 700/>
 
