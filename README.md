@@ -23,6 +23,11 @@ Please note, Python was only used for web scraping
 ## EDA
 
 <p float="left">
+
   <img src="https://user-images.githubusercontent.com/65564135/102079439-038cfb00-3e0d-11eb-98a5-a2093d76de23.png" width = 400/>
-  <img src="https://user-images.githubusercontent.com/65564135/102079434-012aa100-3e0d-11eb-9b93-f6a7fe362321.png" width = 400/>
+    <img src="https://user-images.githubusercontent.com/65564135/102079446-05ef5500-3e0d-11eb-9aed-550da2827a17.png" width = 400/>
+    <img src="https://user-images.githubusercontent.com/65564135/102079434-012aa100-3e0d-11eb-9b93-f6a7fe362321.png" width = 400/>
 </p>
+
+  <img src="https://user-images.githubusercontent.com/65564135/102079450-07b91880-3e0d-11eb-869c-2f4215ab3b33.png" width = 400/>
+      <img src="https://user-images.githubusercontent.com/65564135/102079444-04be2800-3e0d-11eb-9ed3-5419372da513.png" width = 400/>
