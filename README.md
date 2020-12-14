@@ -16,7 +16,7 @@ Please note, Python was only used for web scraping
 
 ## Data Cleaning
 
-- trimed columns, inserted NAs to empty cells, replaced "None" with NA
+- trimmed columns, inserted NAs to empty cells, replaced "None" with NA
 - parsed numeric data out of numeric variables
 - imputted missing values using knn
 - made new column elevation_length by subtracting lowest point from highest_point
