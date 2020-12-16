@@ -12,7 +12,7 @@ Please note, Python was only used for web scraping
 
 **R packages:** tidyverse, tidymodels, ggcorrplot, ggrepel
 
-**Python packages:** Beautiful Soup
+**Python packages:** beautiful soup, requests, pandas
 
 ## Data Cleaning
 
