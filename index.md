@@ -1,29 +1,3 @@
----
-date: "2020-12-12T00:00:00Z"
-external_link: ""
-image:
-  caption: "Nassfeld, Austria"
-  facial point: smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/andre_glasnovic
-- icon: github
-  icon_pack: fab
-  name: Project Github
-  url: https://github.com/andreglasnovic/ski_resorts
-
-summary: Collecting data, building a model and deploying the app on ski resort prices in Europe.
-tags:
-- Data Science
-title: How much does skiing in Europe cost?
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
----
-
 As a skiing enthusiast, I though it'd be be interesting to know what factors might impact the cost of ski resorts. Those insights might help me in choosing my next destination. 
 
 The goal of this project is to determine the cost of ski resorts to help me and other skiers and snowboarders get the idea on what to expect from European resorts. The first step of the project was to collect the data, so I went to https://www.skiresort.info and scraped 2450 resorts using python and beautiful soup. The project also includes data cleaning, statistical analysis, data visualization and machine learning modeling. All the files, including scraping script, are uploaded to my github. 
